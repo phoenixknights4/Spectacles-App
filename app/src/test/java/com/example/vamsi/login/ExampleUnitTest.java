@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.vamsi.login;
 
 import org.junit.Test;
 
